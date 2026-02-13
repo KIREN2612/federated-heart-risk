@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+flower
+torch
+scikit-learn
+pandas
+numpy
+shap
+python-socketio
